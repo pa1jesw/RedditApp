@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_adviceanimals"
+            android:title="/adviceanimals" />
+        <item
+            android:id="@+id/nav_all"
+            android:title="/all" />
+        <item
+            android:id="@+id/nav_alternativeart"
+            android:title="/alternativeart" />
+        <item
+            android:id="@+id/nav_aww"
+            android:title="/aww" />
+        <item
+            android:id="@+id/nav_cats"
+            android:title="/cats" />
+        <item
+            android:id="@+id/nav_gifs"
+            android:title="/gifs" />
+        <item
+            android:id="@+id/nav_images"
+            android:title="/images" />
+        <item
+            android:id="@+id/nav_photoshopbattles"
+            android:title="/photoshopbattles" />
+        <item
+            android:id="@+id/nav_pics"
+            android:title="/pics" />
+    </group>
+
+</menu>
